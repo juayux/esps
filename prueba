@@ -1,0 +1,8 @@
+{
+  "id": "152638009253036032",
+  "name": "Prueba OAuth2 ",
+  "description": "ee",
+  "icon": null,
+  "secret": "p6KNMamrU5OVWtZiFe2kSkhx3Amxm0xB",
+  "redirect_uris": ["http://localhost:5000/callback"],
+}
